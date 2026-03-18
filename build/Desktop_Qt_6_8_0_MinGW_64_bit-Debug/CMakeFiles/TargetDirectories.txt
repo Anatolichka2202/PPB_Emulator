@@ -1,0 +1,9 @@
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/PPB_Emulator.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/PPB_Emulator_autogen_timestamp_deps.dir
+C:/qt_repos_2/PPB_Emulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/PPB_Emulator_autogen.dir
